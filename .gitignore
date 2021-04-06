@@ -1,5 +1,6 @@
 # User defined
 secret*
+creds/
 
 # Local .terraform directories
 **/.terraform/*
